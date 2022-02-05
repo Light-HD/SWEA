@@ -1,8 +1,6 @@
-package mine;
-
 import java.util.*;
 
-public class Main {
+public class Solution {
 
 	public static int[][] rotate(int[][] arr, int n) {
 		int [][] arr90 = new int[n][n];
